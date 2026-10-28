@@ -238,7 +238,7 @@ Desarrollé un proyecto de análisis comercial utilizando un dataset sintético 
 
 **Hallazgo destacado:** Identificación de diferencias entre volumen de ventas e ingresos por ciudad, además de posibles problemas de gestión logística.
 
-🔗 [Ver proyecto en GitHub]([[https://github.com/TU-USUARIO/excel-ecommerce-sales-analysis](https://github.com/emiliocch11?tab=repositories#:~:text=excel%2Decommerce%2Dsales%2Danalysis)](https://github.com/emiliocch11/excel-ecommerce-sales-analysis))
+🔗 **[Ver proyecto completo en GitHub](https://github.com/emiliocch11/excel-ecommerce-sales-analysis)**
 
 ---
 
@@ -260,7 +260,7 @@ Desarrollé un informe interactivo en Power BI orientado al análisis de ingreso
 
 **Indicadores analizados:** Ingresos netos, utilidad neta, rentabilidad, ventas promedio y cumplimiento de metas.
 
-🔗 [Ver proyecto en GitHub](https://github.com/TU-USUARIO/powerbi-profitability-analysis)
+🔗 **[Ver proyecto completo en GitHub](https://github.com/emiliocch11/powerbi-profitability-analysis)**
 
 ---
 
@@ -286,7 +286,7 @@ Desarrollé un proyecto de Business Analytics utilizando el dataset público de 
 - El 72,3 % de los productos presenta ventas inferiores al promedio.
 - Se identificaron segmentos de clientes históricamente inactivos.
 
-🔗 [Ver proyecto en GitHub](https://github.com/TU-USUARIO/sql-market360-ecommerce-analytics)
+🔗 **[Ver proyecto completo en GitHub](https://github.com/emiliocch11/sql-market360-ecommerce-analytics)**
 
 ---
 
@@ -309,7 +309,7 @@ Desarrollé un proyecto de análisis estadístico y Machine Learning utilizando 
 
 **Hallazgo destacado:** El modelo lineal presentó un R² cercano a cero, evidenciando limitaciones predictivas con las variables utilizadas. La prueba de hipótesis no encontró evidencia estadística suficiente de diferencias en el importe promedio por transacción asociadas a las promociones.
 
-🔗 [Ver proyecto en GitHub](https://github.com/TU-USUARIO/python-comercial-andina-sales-analysis)
+🔗 **[Ver proyecto completo en GitHub](https://github.com/emiliocch11/python-comercial-andina-sales-analysis)**
 
 ---
 
@@ -317,12 +317,13 @@ Desarrollé un proyecto de análisis estadístico y Machine Learning utilizando 
 
 | Proyecto | Herramienta principal | Competencias desarrolladas |
 |---|---|---|
-| E-Commerce Sales Analysis | **Excel** | Power Query, Power Pivot, dashboards |
-| Profitability Analysis | **Power BI** | ETL, DAX, modelado y visualización |
-| Market360 Analytics | **SQL Server** | JOINs, CTEs, vistas y esquema estrella |
-| Comercial Andina | **Python** | Pandas, estadística, regresión y Machine Learning |
+| [E-Commerce Sales Analysis](https://github.com/emiliocch11/excel-ecommerce-sales-analysis) | **Excel** | Power Query, Power Pivot, dashboards |
+| [Profitability Analysis](https://github.com/emiliocch11/powerbi-profitability-analysis) | **Power BI** | ETL, DAX, modelado y visualización |
+| [Market360 Analytics](https://github.com/emiliocch11/sql-market360-ecommerce-analytics) | **SQL Server** | JOINs, CTEs, vistas y esquema estrella |
+| [Comercial Andina](https://github.com/emiliocch11/python-comercial-andina-sales-analysis) | **Python** | Pandas, estadística, regresión y Machine Learning |
 
 *Proyectos académicos desarrollados durante el programa Data Analyst Expert de Ciencia de Datos Ecuador (2026).*
+
 
 
 ## 📜 Certificaciones
