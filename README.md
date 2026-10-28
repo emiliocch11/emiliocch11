@@ -1,127 +1,293 @@
 
 # Emilio Caldas
 
-**Análisis financiero | Control presupuestario | Business Analytics**
+### Financial Analyst | Data Analyst | Business Intelligence
 
-📍 Quito, Ecuador · ✉️ [emiliocch11@gmail.com](mailto:emiliocch11@gmail.com) · [LinkedIn](https://www.linkedin.com/in/emiliocaldas/) · [GitHub](https://github.com/COMPLETAR) · [Portafolio](https://COMPLETAR)
+**Análisis Financiero · Business Analytics · Data-Driven Decision Making**
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat&logo=microsoftsharepoint&logoColor=white)
-
-> **Por completar:** sustituir las URLs de GitHub y portafolio, confirmar el nombre del repositorio y añadir proyectos públicos verificables. Python y SQL se indican como habilidades en formación, no como dominio profesional.
-
----
-
-## Índice
-
-- [Perfil profesional](#perfil-profesional)
-- [Experiencia profesional](#experiencia-profesional)
-- [Proyectos destacados](#proyectos-destacados)
-- [Habilidades técnicas](#habilidades-técnicas)
-- [Educación](#educación)
-- [Certificaciones](#certificaciones)
-- [Idiomas](#idiomas)
-- [Intereses](#intereses)
+📍 Quito, Ecuador  
+📧 [emiliocch11@gmail.com](mailto:emiliocch11@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/emiliocaldas/)  
+💻 GitHub: [COMPLETAR]  
+📊 Portafolio: [COMPLETAR]
 
 ---
 
-## Perfil profesional
+## 🛠️ Tech Stack
 
-Licenciado en Administración de Empresas por la **Universidad San Francisco de Quito (USFQ)** y estudiante de Finanzas, con experiencia en **análisis financiero, control presupuestario y reportería** en banca y consumo masivo.
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-He elaborado reportes financieros, administrado presupuestos operativos y desarrollado paneles gerenciales con **Excel** y **Power BI**.
+**Additional Tools & Skills:**
 
-Mi enfoque conecta el análisis de datos con decisiones de negocio claras y el uso eficiente de recursos. Actualmente continúo mi formación en **Business Intelligence, Python y SQL**.
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=flat-square)
+![Power Pivot](https://img.shields.io/badge/Power_Pivot-217346?style=flat-square)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white)
 
-## Experiencia profesional
+---
 
-### Banco Solidario — Asistente de Análisis Financiero
+## 📑 Índice
 
-**Mayo de 2026 – actualidad** · Quito, Ecuador
+- [Sobre mí](#-sobre-mí)
+- [Experiencia profesional](#-experiencia-profesional)
+- [Formación académica](#-formación-académica)
+- [Especialización en Data Analytics](#-especialización-en-data-analytics)
+- [Habilidades técnicas](#-habilidades-técnicas)
+- [Proyectos y portafolio](#-proyectos-y-portafolio)
+- [Certificaciones](#-certificaciones)
+- [Idiomas](#-idiomas)
+- [Contacto](#-contacto)
 
-- Elaboro **reportes financieros diarios** de balances, flujos de caja, captaciones y colocaciones.
-- Actualizo paneles gerenciales para el seguimiento de metas de los Oficiales de Captaciones.
-- Limpio bases de datos y desarrollo modelos y tableros para analizar **variaciones financieras**.
-- Preparo información sobre la salud financiera institucional destinada a organismos internacionales.
+---
 
-### Cervecería Nacional (AB InBev) — Pasante Administrativo, Seguridad Industrial
+## 👨🏻‍💻 Sobre mí
 
-**Abril de 2025 – noviembre de 2025** · Cumbayá, Ecuador
+Soy licenciado en **Administración de Empresas por la Universidad San Francisco de Quito (USFQ)**, estudiante de Finanzas y con formación especializada en **Data Analytics y Business Intelligence**.
 
-- Gestioné presupuestos de mantenimiento, repuestos y sistemas contra incendios.
-- Optimicé el seguimiento del inventario de equipos de protección personal (EPP) para **más de 500 colaboradores**.
-- Desarrollé **dashboards en Power BI** e informes gerenciales para el área.
-- Coordiné actividades con proveedores y apoyé la logística de eventos corporativos junto al equipo de People.
-- Diseñé y actualicé el sitio interno del área en **SharePoint**.
+Mi experiencia en **Banco Solidario, Cervecería Nacional (AB InBev)** y en la administración de negocios en Estados Unidos me ha permitido desarrollar una visión que conecta las finanzas, los datos y la estrategia empresarial.
 
-### Tacos El Norte — Administrador / Manager
+He trabajado en análisis y control financiero, gestión presupuestaria, construcción de dashboards gerenciales y seguimiento de indicadores para la toma de decisiones.
 
-**Julio – noviembre de 2023; junio – agosto de 2024** · Chicago, Estados Unidos
+Cuento con formación técnica en **Excel, Power BI, SQL y Python**, con conocimientos de modelado de datos, estadística, visualización y análisis orientado a resultados empresariales.
 
-- Administré presupuestos operativos, pagos a proveedores y nómina para equipos de **27 personas**.
-- Coordiné funciones administrativas y operativas en distintos locales del restaurante.
+Me interesa transformar datos en información útil para identificar oportunidades, mejorar procesos y aportar valor estratégico a las organizaciones.
 
-## Proyectos destacados
+---
 
-> Los documentos aportados describen trabajo profesional, pero no incluyen repositorios ni demostraciones públicas. Agrega aquí únicamente proyectos que puedas compartir sin exponer información confidencial.
+## 💼 Experiencia profesional
 
-| Proyecto | Descripción | Tecnologías | Repositorio | Demo |
-| --- | --- | --- | --- | --- |
-| [COMPLETAR] | [COMPLETAR: objetivo, análisis y resultado verificable] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
+### Banco Solidario S.A.
+**Asistente de Análisis Financiero**  
+*Mayo 2026 – Actualidad | Quito, Ecuador*
 
-## Habilidades técnicas
+- Elaboración de reportes financieros diarios relacionados con balances, flujos de caja, captaciones y colocaciones.
+- Actualización de dashboards gerenciales para el seguimiento de metas e indicadores financieros.
+- Limpieza y procesamiento de bases de datos para el análisis de variaciones financieras.
+- Desarrollo de modelos y reportes para facilitar el seguimiento del desempeño institucional.
+- Preparación de información financiera para organismos internacionales.
 
-| Categoría | Herramientas y conocimientos |
-| --- | --- |
-| **Análisis financiero** | Control presupuestario, análisis de variaciones, reportería financiera, seguimiento de indicadores |
-| **Análisis de datos y BI** | Excel avanzado, Power BI, dashboards gerenciales, limpieza de datos |
-| **Productividad y gestión** | Microsoft Office, SharePoint, inventarios, proveedores |
-| **En formación** | Power Query, Power Pivot, DAX, SQL Server, Python, estadística y Data Storytelling |
-| **Complementarias** | Organización, comunicación efectiva, liderazgo de equipos |
+**Herramientas:** Excel, Power BI, análisis financiero y reportería.
 
-## Educación
+### Cervecería Nacional – AB InBev
+**Pasante Administrativo | Seguridad Industrial**  
+*Abril 2025 – Noviembre 2025 | Cumbayá, Ecuador*
+
+- Gestión y seguimiento de presupuestos de mantenimiento, repuestos y sistemas contra incendios.
+- Optimización del control de inventarios de equipos de protección personal para **más de 500 colaboradores**.
+- Desarrollo de dashboards en Power BI e informes gerenciales.
+- Diseño y administración de un sitio interno del área mediante SharePoint.
+- Coordinación con proveedores y apoyo a la gestión de eventos corporativos.
+- Participación en capacitaciones de seguridad industrial.
+
+**Herramientas:** Excel, Power BI, SharePoint y gestión presupuestaria.
+
+### Tacos El Norte
+**Administrador / Manager**  
+*Julio – Noviembre 2023 | Junio – Agosto 2024*  
+*Chicago, Illinois, Estados Unidos*
+
+- Administración de presupuestos operativos y pagos a proveedores.
+- Gestión de nómina para equipos de **27 colaboradores**.
+- Coordinación de actividades administrativas y operativas en diferentes establecimientos.
+- Apoyo a la organización y control de recursos del negocio.
+
+---
+
+## 🎓 Formación académica
 
 ### Universidad San Francisco de Quito (USFQ)
 
-**Licenciatura en Administración de Empresas — titulado**
+**Licenciatura en Administración de Empresas**  
+Titulado.
 
-**Licenciatura en Finanzas — en curso, graduación prevista para 2027**
+**Licenciatura en Finanzas**  
+En curso | Graduación prevista: 2027.
 
-2022 – actualidad
+*2022 – Actualidad*
 
 ### Ciencia de Datos Ecuador
 
-**Data Analyst Expert — programa de 156 horas, en curso según el CV aportado**
+**Data Analyst Expert — Programa finalizado**  
+*2026 | 156 horas de formación | Modalidad online en vivo*
 
-Julio – noviembre de 2026 (finalización pendiente de confirmar)
+Programa especializado en análisis de datos, Business Intelligence y herramientas analíticas aplicadas a problemas empresariales.
+
+**Tecnologías principales:**
+- Microsoft Excel
+- Power BI
+- SQL Server
+- Python
+
+**Áreas de formación:**
+- Data Analytics
+- Business Intelligence
+- Data Modeling
+- Data Visualization
+- Data Storytelling
+- Estadística aplicada
+- Análisis predictivo
 
 ### Colegio Intisana
 
-**Bachillerato Internacional** · 2009 – 2021
+**Bachillerato Internacional**  
+*2009 – 2021*
 
-Asignaturas destacadas: Economía, Sistemas Ambientales e Inglés.
-
-## Certificaciones
-
-- **Data Analysis in Excel** — DataCamp (2024)
-- **Introduction to Power BI** — DataCamp (2024)
-- **Introduction to Python** — DataCamp (2024)
-- **Portfolio Management Studio** — Finsimco; teoría de portafolios, CAPM, optimización media-varianza y asignación de activos (fecha: [COMPLETAR])
-- **Inbound Marketing** — HubSpot Academy (2024)
-- **Social Media Certified** — HubSpot Academy (2024)
-
-## Idiomas
-
-- **Español:** nativo
-- **Inglés:** alto
-- **Francés:** intermedio
-
-## Intereses
-
-Análisis financiero, estrategia empresarial, Business Intelligence, creatividad, arte y filosofía.
+Áreas: Economía, Sistemas Ambientales e Inglés.
 
 ---
 
-**Contacto:** [emiliocch11@gmail.com](mailto:emiliocch11@gmail.com) · [LinkedIn](https://www.linkedin.com/in/emiliocaldas/)
+## 📊 Especialización en Data Analytics
+
+### Data Analyst Expert | Ciencia de Datos Ecuador
+
+Formación de **156 horas completadas**, enfocada en el uso de herramientas analíticas para transformar datos en información útil para la toma de decisiones.
+
+### 1. Excel aplicado a Data Analytics
+
+- Preparación, depuración y transformación de datos.
+- Integración de múltiples fuentes de información.
+- Uso de **Power Query** para procesos de limpieza y transformación.
+- Modelado y relaciones entre tablas mediante **Power Pivot**.
+- Tablas dinámicas y análisis estadístico descriptivo.
+- Diseño de dashboards interactivos.
+- Automatización de reportes y fundamentos de macros.
+
+### 2. Business Intelligence con Power BI
+
+- Conexión a múltiples fuentes de datos.
+- Procesos ETL mediante Power Query.
+- Construcción de modelos de datos relacionales.
+- Creación de medidas y métricas mediante **DAX**.
+- Desarrollo de KPIs y dashboards interactivos.
+- Análisis de tendencias, patrones y anomalías.
+- Diseño de visualizaciones orientadas a decisiones empresariales.
+
+### 3. SQL y modelado de datos
+
+- Consultas y manipulación de bases de datos relacionales.
+- Uso de **SELECT, WHERE, GROUP BY, ORDER BY y JOIN**.
+- Funciones de agregación y subconsultas.
+- Modelado dimensional con tablas de hechos y dimensiones.
+- Uso de vistas, funciones y procedimientos almacenados.
+- Análisis de información empresarial con **SQL Server**.
+
+### 4. Análisis de datos con Python
+
+- Fundamentos de programación aplicados al análisis.
+- Manejo de listas, diccionarios, arreglos y DataFrames.
+- Limpieza, filtrado y transformación de datasets.
+- Análisis estadístico descriptivo.
+- Visualización de datos con **Matplotlib y Seaborn**.
+- Análisis de correlaciones.
+- Modelos de regresión lineal con **Scikit-Learn**.
+- Pruebas estadísticas e interpretación de resultados.
+
+### 5. Data Storytelling
+
+- Comunicación de hallazgos mediante narrativas basadas en datos.
+- Aplicación de principios Gestalt a la visualización.
+- Diseño de dashboards con jerarquías visuales claras.
+- Uso de principios de Business Intelligence Design Standards.
+- Presentación de resultados e insights para audiencias empresariales.
+
+---
+
+## ⚙️ Habilidades técnicas
+
+| Categoría | Herramientas y conocimientos |
+|---|---|
+| **Data Analysis** | Excel, Power Query, Power Pivot, SQL, Python |
+| **Business Intelligence** | Power BI, DAX, KPIs, dashboards |
+| **Database Management** | SQL Server, consultas SQL, JOINs, modelado relacional |
+| **Python Analytics** | DataFrames, Matplotlib, Seaborn, Scikit-Learn |
+| **Statistical Analysis** | Estadística descriptiva, correlaciones, regresión lineal |
+| **Financial Analysis** | Control presupuestario, análisis de variaciones, reportería financiera |
+| **Data Visualization** | Power BI, Excel, Data Storytelling |
+| **Business Management** | Gestión de presupuestos, inventarios y proveedores |
+| **Productivity Tools** | Microsoft Office, SharePoint |
+
+---
+
+## 🚀 Proyectos y portafolio
+
+Actualmente organizando mi portafolio de proyectos de análisis financiero y Data Analytics.
+
+Los proyectos públicos se incorporarán con sus respectivos datasets, metodologías, resultados y documentación técnica.
+
+| Proyecto | Descripción | Tecnologías | Repositorio |
+|---|---|---|---|
+| [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
+
+> Los proyectos realizados durante la formación podrán incorporarse cuando se disponga de sus archivos y resultados para documentarlos correctamente.
+
+---
+
+## 📜 Certificaciones
+
+### Data Analytics
+
+- **Data Analyst Expert** — Ciencia de Datos Ecuador (2026, 156 horas completadas).
+- **Data Analysis in Excel** — DataCamp (2024).
+- **Introduction to Power BI** — DataCamp (2024).
+- **Introduction to Python** — DataCamp (2024).
+
+### Finanzas
+
+- **Portfolio Management Studio** — Finsimco.
+  - Portfolio Theory.
+  - Capital Asset Pricing Model (CAPM).
+  - Mean-Variance Optimization.
+  - Asset Allocation.
+
+### Marketing y negocios
+
+- **Inbound Marketing** — HubSpot Academy (2024).
+- **Social Media Certified** — HubSpot Academy (2024).
+
+---
+
+## 🌎 Idiomas
+
+| Idioma | Nivel |
+|---|---|
+| Español | Nativo |
+| Inglés | Alto |
+| Francés | Intermedio |
+
+---
+
+## 🎯 Intereses profesionales
+
+- Financial Analytics
+- Business Intelligence
+- Data Analytics
+- Corporate Finance
+- Investment Analysis
+- Data-Driven Strategy
+- Business Strategy
+- Innovación y mejora de procesos
+
+También me interesan el arte, la filosofía y la creatividad como herramientas complementarias para el pensamiento crítico y la resolución de problemas.
+
+---
+
+## 📬 Contacto
+
+Estoy interesado en conectar con profesionales y organizaciones que valoren el análisis financiero, la tecnología y las decisiones basadas en datos.
+
+- **Email:** [emiliocch11@gmail.com](mailto:emiliocch11@gmail.com)
+- **LinkedIn:** [Emilio Caldas](https://www.linkedin.com/in/emiliocaldas/)
+- **GitHub:** [COMPLETAR]
+- **Ubicación:** Quito, Ecuador
+
+---
+
+*Financial Analysis | Data Analytics | Business Intelligence*
+
 
