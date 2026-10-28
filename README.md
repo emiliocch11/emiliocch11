@@ -238,7 +238,7 @@ Desarrollé un proyecto de análisis comercial utilizando un dataset sintético 
 
 **Hallazgo destacado:** Identificación de diferencias entre volumen de ventas e ingresos por ciudad, además de posibles problemas de gestión logística.
 
-🔗 [Ver proyecto en GitHub]([https://github.com/TU-USUARIO/excel-ecommerce-sales-analysis](https://github.com/emiliocch11?tab=repositories#:~:text=excel%2Decommerce%2Dsales%2Danalysis))
+🔗 [Ver proyecto en GitHub]([[https://github.com/TU-USUARIO/excel-ecommerce-sales-analysis](https://github.com/emiliocch11?tab=repositories#:~:text=excel%2Decommerce%2Dsales%2Danalysis)](https://github.com/emiliocch11/excel-ecommerce-sales-analysis))
 
 ---
 
