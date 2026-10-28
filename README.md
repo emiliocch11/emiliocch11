@@ -8,8 +8,9 @@
 📍 Quito, Ecuador  
 📧 [emiliocch11@gmail.com](mailto:emiliocch11@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/emiliocaldas/)  
-💻 GitHub: [COMPLETAR]  
-📊 Portafolio: [COMPLETAR]
+💻 GitHub: [github.com/emiliocch11](https://github.com/emiliocch11)  
+📊 Portafolio: [Ver mis proyectos](https://github.com/emiliocch11?tab=repositories)
+
 
 ---
 
