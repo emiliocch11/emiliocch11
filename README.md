@@ -374,17 +374,6 @@ Desarrollé un proyecto de análisis estadístico y Machine Learning utilizando 
 
 También me interesan el arte, la filosofía y la creatividad como herramientas complementarias para el pensamiento crítico y la resolución de problemas.
 
----
-
-## 📬 Contacto
-
 Estoy interesado en conectar con profesionales y organizaciones que valoren el análisis financiero, la tecnología y las decisiones basadas en datos.
-
-- **Email:** [emiliocch11@gmail.com](mailto:emiliocch11@gmail.com)
-- **LinkedIn:** [Emilio Caldas](https://www.linkedin.com/in/emiliocaldas/)
-- **GitHub:** [COMPLETAR]
-- **Ubicación:** Quito, Ecuador
-
----
 
 *Financial Analysis | Data Analytics | Business Intelligence*
